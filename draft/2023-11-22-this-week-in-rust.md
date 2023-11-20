@@ -186,6 +186,8 @@ Rusty Events between 2023-11-22 - 2023-12-20 🦀
     * [**Rust and Talk at Danske Commodities**](https://www.meetup.com/rust-aarhus/events/296223513/)
 * 2023-11-30 | Brussels, BE | [Lambda Brussels](https://lambda-brussels.glitch.me/)
     * [**Lambda Brussels**](https://lambda-brussels.glitch.me/)
+* 2024-02-01 | Barcelona, ES | [BcnRust](https://www.meetup.com/es-ES/bcnrust/)
+   * [**12th BcnRust Meetup**](https://www.meetup.com/es-ES/bcnrust/events/297439924/) - (Also online in [our YouTube channel](https://www.youtube.com/@bcnrust))
 
 ### North America
 
